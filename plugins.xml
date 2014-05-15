@@ -1,0 +1,28 @@
+
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="/static/style/plugins.xsl" ?>
+<plugins>
+<pyqgis_plugin name="Remote Debug" version="0.2.0" plugin_id="228">
+        <description><![CDATA[Start Python remote debugger from QGIS plugin]]></description>
+        <about></about>
+        <version>0.2.0</version>
+        <qgis_minimum_version>1.8.0</qgis_minimum_version>
+        <qgis_maximum_version>3.0.0</qgis_maximum_version>
+        <homepage><![CDATA[https://github.com/sourcepole/qgis-remote-debug]]></homepage>
+        <file_name>remotedebug.0.2.0.zip</file_name>
+        <icon>/static/packages/icon_355.png</icon>
+        <author_name><![CDATA[Sourcepole]]></author_name>
+        <download_url>http://plugins.qgis.org/plugins/remotedebug/version/0.2.0/download/</download_url>
+        <uploaded_by><![CDATA[pka]]></uploaded_by>
+        <create_date>2013-07-15T15:09:19.824333</create_date>
+        <update_date>2013-07-15T15:09:19.824333</update_date>
+        <experimental>False</experimental>
+        <deprecated>False</deprecated>
+        <tracker><![CDATA[http://hub.qgis.org/projects/remotedebug/issues]]></tracker>
+        <repository><![CDATA[https://github.com/sourcepole/qgis-remote-debug]]></repository>
+        <tags><![CDATA[development,debugging,tools]]></tags>
+        <downloads>0</downloads>
+        <average_vote>0</average_vote>
+        <rating_votes>0</rating_votes>
+    </pyqgis_plugin>
+</plugins>
