@@ -8,7 +8,7 @@
         <qgis_minimum_version>1.8.0</qgis_minimum_version>
         <qgis_maximum_version>3.0.0</qgis_maximum_version>
         <homepage><![CDATA[https://code.google.com/p/geospatialpython]]></homepage>
-        <file_name>myplugin.0.1.0.zip</file_name>
+        <file_name>MyPlugin.0.1.0.zip</file_name>
         <icon>https://geospatialpython.googlecode.com/svn/icon_227.png</icon>
         <author_name><![CDATA[Joel Lawhead]]></author_name>
         <download_url>https://geospatialpython.googlecode.com/svn/</download_url>
