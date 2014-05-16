@@ -2,12 +2,12 @@
 <?xml-stylesheet type="text/xsl" href="/static/style/plugins.xsl" ?>
 <plugins>
   <pyqgis_plugin name="My Plugin" version="0.1.0" plugin_id="227">
-        <description><![CDATA[Start Python remote debugger from QGIS plugin]]></description>
+        <description><![CDATA[Demonstration of a QGIS Plugin]]></description>
         <about></about>
-        <version>0.2.0</version>
+        <version>0.1.0</version>
         <qgis_minimum_version>1.8.0</qgis_minimum_version>
         <qgis_maximum_version>3.0.0</qgis_maximum_version>
-        <homepage><![CDATA[https://github.com/sourcepole/qgis-remote-debug]]></homepage>
+        <homepage><![CDATA[https://code.google.com/p/geospatialpython]]></homepage>
         <file_name>myplugin.0.1.0.zip</file_name>
         <icon>https://geospatialpython.googlecode.com/svn/icon_227.png</icon>
         <author_name><![CDATA[Joel Lawhead]]></author_name>
